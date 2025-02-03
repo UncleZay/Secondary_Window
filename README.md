@@ -1,16 +1,15 @@
 # secondarywindow
 
-A new Flutter project.
+## ဒီ Project ကတော့ desktop_multi_window packages ကို အသုံးပြုပြီးတော့ Seconday Window ရရှိအောင်ပြုလုပ်ပေးထားပဲဖြစ်ပါတယ်။
 
+Secondary window ကို pos software တွေမှာ user တွေရဲ့ ဝယ်ယူမှုတွေကို show လုပ်ဆောင်ချင်တာပဲဖြစ်ဖြစ်အသုံးပြုလို့ရပါတယ်။
+
+ 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## ဒီ project မိတ်ဆွေတို့ အထောက်အကူဖြစ်မယ်လို့ မျှော်လင့်ပါတယ် ခင်ဗျာ။
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+See you again soon.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+kyawzayrlynn29969@gmail.com
